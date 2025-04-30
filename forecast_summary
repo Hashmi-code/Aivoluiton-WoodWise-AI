@@ -1,0 +1,12 @@
+Using a neural network trained on multiple industry factors (tariffs, industrial activity, construction trends, forest fire impact, weather severity, and lumber prices), the predicted lumber sales units for the next 4 weeks are: [838, 838, 838, 838].
+The forecast confidence level is: High.
+The recommended inventory strategy is: Recommend standard replenishment every two weeks..
+Explanation of forecast drivers: The forecast is influenced by relatively high industrial activity and stable construction trends, while moderate weather and low forest fire risk kept volatility low..
+
+Please generate a natural language report that:
+- Summarizes the expected demand
+- Highlights potential risks and opportunities
+- Provides inventory management recommendations
+- Mentions the forecast confidence level and how it should impact decision-making
+- Describes the inventory strategy and how it aligns with the forecasted demand
+- Provides insight into why the AI forecasted this way based on industry drivers.
