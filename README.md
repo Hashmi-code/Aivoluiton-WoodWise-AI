@@ -1,5 +1,6 @@
 ## **WoodWise AI Multi-Agent**
-![images-WoodWise Ai Agent](1.jpeg)
+WELCOME TO WOODWISE AI AGENT 👋:
+![images-WoodWise Ai Agent] (WhatsApp Image 2025-05-01 at 00.53.48 Large.jpeg)
 ## **Introduction**
 This repository outlines the foundation of our artificial intelligence forecasting model tailored specifically
 to the lumber and manufacturing industry. This system is composed of four agents: Forecasting, Adjustment (HITL), Scenario Simulation, and Reporting. They work together to help businesses make smarter, data-driven decisions while embracing responsible AI practices.
@@ -24,6 +25,7 @@ Automated Reporting: Generates dynamic dashboards and natural-language summaries
 
 ## **Features**
 1. Confidence Level: Model confidence is surfaced to guide decision-makers on how reliable a prediction is.
+             ![images-WoodWise Ai Agent](1.jpeg)
 2. Time-Series Forecasting: Uses historical data to forecast weekly sales for 4 weeks.
              ![images-WoodWise Ai Agent](2.jpeg)
 3. Scenario Testing: Users can simulate changes in key drivers and instantly visualize demand shifts.
@@ -52,3 +54,4 @@ We prioritize transparency through:
 
 ## **Acknowledgements**
 Built for the Microsoft AI Agents Hackathon 2025.
+![images-WoodWise Ai Agent](WhatsApp Image 2025-05-01 at 00.55.02.jpeg)
