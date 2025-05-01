@@ -33,6 +33,7 @@ Human-in-the-Loop: Managers can manually adjust forecasts and inventory plans.
 Confidence Level: Model confidence is surfaced to guide decision-makers on how reliable a prediction is.
 
 Streamlit Dashboard: All agents are deployed in a single interactive UI.
+![images-WoodWise Ai Agent](images/screenshot.png)
 
 ## **Responsible AI**
 We prioritize transparency through: 
