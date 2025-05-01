@@ -57,9 +57,9 @@ Built for the Microsoft AI Agents Hackathon 2025.
 
 Feel free to reach out if you have any questions!
 
-📱 Khadijah Hashmi: https://www.linkedin.com/in/khadijahhashmi/ 
-📱 Josephine Ku: https://www.linkedin.com/in/josephine-ku/
-📱 Daphne Molson: https://www.linkedin.com/in/daphne-molson-bb78a527b/
-📱 Jade Wright: https://www.linkedin.com/in/jjade-wwright/
+📱 Khadijah Hashmi https://www.linkedin.com/in/khadijahhashmi/ 
+📱 Josephine Ku https://www.linkedin.com/in/josephine-ku/
+📱 Daphne Molson https://www.linkedin.com/in/daphne-molson-bb78a527b/
+📱 Jade Wright https://www.linkedin.com/in/jjade-wwright/
 
 ![images-WoodWise Ai Agent](7.jpeg)
