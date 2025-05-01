@@ -35,3 +35,7 @@ Real-Time Inference: Exposes RESTful API endpoints for on-demand forecasting req
 Dashboard & Visualization: Interactive charts for trend analysis and KPI monitoring.
 
 Alerts & Notifications: Configurable triggers for inventory thresholds and forecast deviations.
+
+## **Acknowledgements**
+
+Built with Scikit-learn and FastAPI in Streamlit 
