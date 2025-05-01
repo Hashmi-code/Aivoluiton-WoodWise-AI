@@ -32,7 +32,6 @@ Automated Reporting: Generates dynamic dashboards and natural-language summaries
              ![images-WoodWise Ai Agent](3.5.jpeg)
 5. Streamlit Dashboard: All agents are deployed in a single interactive UI.
              ![images-WoodWise Ai Agent](4.jpeg)
-
 ## **Responsible AI**
 We prioritize transparency through: 
 - Confidence Reporting: Each forecast includes a model confidence score (High or Low), derived from performance trends.
