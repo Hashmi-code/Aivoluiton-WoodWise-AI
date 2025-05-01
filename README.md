@@ -1,4 +1,4 @@
-## **WoodWise AI AGENT**
+## **WoodWise Ai Agent**
 
 ## **Introduction**
 This repository outlines the foundation of our aritificial intelligence forecasting model tailored specifically
