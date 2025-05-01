@@ -26,14 +26,14 @@ Automated Reporting: Generates dynamic dashboards and natural-language summaries
 Confidence Level: Model confidence is surfaced to guide decision-makers on how reliable a prediction is.
 
 Time-Series Forecasting: Uses historical data to forecast weekly sales for 4 weeks.
-![images-WoodWise Ai Agent](images/1.png)
+![images-WoodWise Ai Agent](1.jpeg)
 Scenario Testing: Users can simulate changes in key drivers and instantly visualize demand shifts.
-![images-WoodWise Ai Agent](images/2.png)
+![images-WoodWise Ai Agent](2.jpeg)
 Human-in-the-Loop: Managers can manually adjust forecasts and inventory plans.
-![images-WoodWise Ai Agent](images/3.png)
-![images-WoodWise Ai Agent](images/3.5.png)
+![images-WoodWise Ai Agent](3.jpeg)
+![images-WoodWise Ai Agent](3.5.jpeg)
 Streamlit Dashboard: All agents are deployed in a single interactive UI.
-![images-WoodWise Ai Agent](images/4.png)
+![images-WoodWise Ai Agent](4.jpeg)
 
 ## **Responsible AI**
 We prioritize transparency through: 
