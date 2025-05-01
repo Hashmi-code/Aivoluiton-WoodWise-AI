@@ -1,7 +1,7 @@
 ## **WoodWise AI Multi-Agent**
 
 ## **Introduction**
-This repository outlines the foundation of our aritificial intelligence forecasting model tailored specifically
+This repository outlines the foundation of our artificial intelligence forecasting model tailored specifically
 to the lumber and manufacturing industry. This system is composed of four agents: Forecasting, Adjustment (HITL), Scenario Simulation, and Reporting. They work together to help businesses make smarter, data-driven decisions while embracing responsible AI practices.
 
 ## **Problem Statement**
@@ -14,7 +14,7 @@ The lumber industry faces significant uncertainty due to fluctuating demand, sea
 3. Manual Decision Bottlenecks: Supply chain managers rely on manual spreadsheet analysis, which is time-consuming and error-prone.
 
 ## **Solution**
-The WoodWise Forecasting AI Agent leverages a multi-agent system built with Python and Azure OpenAI to forecast lumber demand, inventory requirements, simulate economic scenarios, several weeks into the future. Key capabilities include:
+The WoodWise Forecasting AI Agent leverages a multi-agent system built with Python and Azure OpenAI to forecast lumber demand, inventory requirements, and simulate economic scenarios, several weeks into the future. Key capabilities include:
 
 Time-Series Forecasting: Uses historical sales and pricing data to train models like Random Forests and Gradient Boosting for accurate predictions.
 
@@ -24,7 +24,7 @@ Automated Reporting: Generates dynamic dashboards and natural-language summaries
 
 ## **Features**
 
-Time-Series Forecasting: Uses hisotric data to forecast weekly sales for 4 weeks.
+Time-Series Forecasting: Uses historical data to forecast weekly sales for 4 weeks.
 
 Scenario Testing: Users can simulate changes in key drivers and instantly visualize demand shifts.
 
@@ -49,7 +49,7 @@ We prioritize transparency through:
 ## **Getting Started**
 1. Clone the repository
 2. Install dependencies with 'pip install -r requirements.txt'
-3. Run the app using 'steamlit run app.py'
+3. Run the app using 'streamlit run app.py'
 
 ## **Acknowledgements**
 Built for the Microsoft AI Agents Hackathon 2025.
