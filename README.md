@@ -54,4 +54,5 @@ We prioritize transparency through:
 
 ## **Acknowledgements**
 Built for the Microsoft AI Agents Hackathon 2025.
+
 ![images-WoodWise Ai Agent](7.jpeg)
