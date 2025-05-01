@@ -26,15 +26,15 @@ Automated Reporting: Generates dynamic dashboards and natural-language summaries
 
 ## **Features**
 
-Data Ingestion: Seamless integration with CSV files, SQL databases, and cloud storage.
+**Data Ingestion:** Seamless integration with CSV files, SQL databases, and cloud storage.
 
-Model Training & Evaluation: Modular pipeline for preprocessing, hyperparameter tuning, and backtesting.
+**Model Training & Evaluation:** Modular pipeline for preprocessing, hyperparameter tuning, and backtesting.
 
-Real-Time Inference: Exposes RESTful API endpoints for on-demand forecasting requests.
+**Real-Time Inference:** Exposes RESTful API endpoints for on-demand forecasting requests.
 
-Dashboard & Visualization: Interactive charts for trend analysis and KPI monitoring.
+**Dashboard & Visualization:** Interactive charts for trend analysis and KPI monitoring.
 
-Alerts & Notifications: Configurable triggers for inventory thresholds and forecast deviations.
+**Alerts & Notifications:** Configurable triggers for inventory thresholds and forecast deviations.
 
 ## **Acknowledgements**
 
