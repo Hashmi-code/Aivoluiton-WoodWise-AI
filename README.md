@@ -24,7 +24,7 @@ Scenario Analysis: Simulates "what-if" scenarios (e.g., tariff changes, producti
 
 Automated Reporting: Generates dynamic dashboards and natural-language summaries to keep stakeholders informed.
 
-##**FEATURES**
+## **FEATURES**
 
 Data Ingestion: Seamless integration with CSV files, SQL databases, and cloud storage.
 
