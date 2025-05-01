@@ -1,5 +1,5 @@
 ## **WoodWise AI Multi-Agent**
-
+![images-WoodWise Ai Agent](1.jpeg)
 ## **Introduction**
 This repository outlines the foundation of our artificial intelligence forecasting model tailored specifically
 to the lumber and manufacturing industry. This system is composed of four agents: Forecasting, Adjustment (HITL), Scenario Simulation, and Reporting. They work together to help businesses make smarter, data-driven decisions while embracing responsible AI practices.
@@ -23,17 +23,15 @@ Scenario Analysis: Simulates "what-if" scenarios (e.g., tariff changes, producti
 Automated Reporting: Generates dynamic dashboards and natural-language summaries to keep stakeholders informed.
 
 ## **Features**
-Confidence Level: Model confidence is surfaced to guide decision-makers on how reliable a prediction is.
-
-Time-Series Forecasting: Uses historical data to forecast weekly sales for 4 weeks.
-![images-WoodWise Ai Agent](1.jpeg)
-Scenario Testing: Users can simulate changes in key drivers and instantly visualize demand shifts.
-![images-WoodWise Ai Agent](2.jpeg)
-Human-in-the-Loop: Managers can manually adjust forecasts and inventory plans.
-![images-WoodWise Ai Agent](3.jpeg)
-![images-WoodWise Ai Agent](3.5.jpeg)
-Streamlit Dashboard: All agents are deployed in a single interactive UI.
-![images-WoodWise Ai Agent](4.jpeg)
+1. Confidence Level: Model confidence is surfaced to guide decision-makers on how reliable a prediction is.
+2. Time-Series Forecasting: Uses historical data to forecast weekly sales for 4 weeks.
+             ![images-WoodWise Ai Agent](2.jpeg)
+3. Scenario Testing: Users can simulate changes in key drivers and instantly visualize demand shifts.
+             ![images-WoodWise Ai Agent](3.jpeg)
+4. Human-in-the-Loop: Managers can manually adjust forecasts and inventory plans.
+             ![images-WoodWise Ai Agent](3.5.jpeg)
+5. Streamlit Dashboard: All agents are deployed in a single interactive UI.
+             ![images-WoodWise Ai Agent](4.jpeg)
 
 ## **Responsible AI**
 We prioritize transparency through: 
