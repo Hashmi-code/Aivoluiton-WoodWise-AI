@@ -31,9 +31,9 @@ Automated Reporting: Generates dynamic dashboards and natural-language summaries
 3. Scenario Testing: Users can simulate changes in key drivers and instantly visualize demand shifts.
              ![images-WoodWise Ai Agent](3.jpeg)
 4. Human-in-the-Loop: Managers can manually adjust forecasts and inventory plans.
-             ![images-WoodWise Ai Agent](3.5.jpeg)
-5. Streamlit Dashboard: All agents are deployed in a single interactive UI.
              ![images-WoodWise Ai Agent](4.jpeg)
+5. Streamlit Dashboard: All agents are deployed in a single interactive UI.
+             ![images-WoodWise Ai Agent](5.jpeg)
 ## **Responsible AI**
 We prioritize transparency through: 
 - Confidence Reporting: Each forecast includes a model confidence score (High or Low), derived from performance trends.
